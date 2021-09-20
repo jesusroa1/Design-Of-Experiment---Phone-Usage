@@ -4,6 +4,9 @@ In this project, I worked with a team to design a 2^3 full factorial experiment 
 ## Problem Statement:
 The average American spends approximately 5 hours per day on their phone. I was no exception. Our team set out to find: **what are some things we can do to minimize the amount of time we spend on our phones?**
 
+## Tools Used:
+For this project, we utilized google sheets and JMP, a statistical analysis software.
+
 ## Experiment Design:
 We used a 2 [^3] full factorial experiment that would test three distinct factors
 
