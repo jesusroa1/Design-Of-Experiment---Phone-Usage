@@ -1,4 +1,6 @@
 # Design Of Experiment - Phone-Usage
+*Download PPT file in Github Repo for more details!*
+
 In this project, I worked with a team to design a 2^3 full factorial experiment to test what factors increase your daily phone usage time. Spoiler alert: the only significant factor we found was including social media!
 
 ## Problem Statement:
